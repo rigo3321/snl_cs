@@ -1,11 +1,46 @@
 ---
 title: "Es una nice white girl: the use of code-switching on Saturday Night Live"
 format: html
+bibliography: /Users/rdelga21/Library/CloudStorage/Box-Box/masterbibtex/masterlist.bib
 ---
 
 ## Introduction
 
-Saturday Night Live (SNL) is a sketch comedy show the began to air in 1975 on the National Broadcast Company (NBC). Despite the half-century that the show has remained on air, it is still as relevant as ever--Barack Obama, Hilary Clinton, and Kamala Harris have been guests on the show during election years. In all its history, however, SNL has only had four Latinx cast members: Horatio Sanz (1998-2006), Fred Armisen (2002-2013), Melissa Villaseńor (2016-2022), and Marcello Hernández (2022-present). 
+Saturday Night Live (SNL) is a sketch comedy show the began to air in 1975 on 
+the National Broadcast Company (NBC). Despite the half-century that the show 
+has remained on air, it is still as relevant as ever--Barack Obama, Hilary 
+Clinton, and Kamala Harris have been guests on the show during election years.
+In all its history, however, SNL has only had four Latinx cast members: Horatio
+Sanz (1998-2006), Fred Armisen (2002-2013), Melissa Villaseńor (2016-2022), and 
+Marcello Hernández (2022-present). 
 
-In his short tenure as a cast member, Marcello has brought noticeable changes to SNL; there has been an uptick in sketches where Spanish and code-switching play a major role. In this paper, I focus on two sketches "Protective Mom" and "Protective Mom 2", both written by Marcello. The premise for these two sketches is simple. Marcello brings his white girlfriend to meet his highly protectice Latina mom, in this case played by the Chilean-American actor Pedro Pascal. The sequel shares the same concept as the first part, though here the character of Marcello's overprotectice aunt is introduced, played by the Puerto Rican reggaetón artist, Benito Antonio Martínez Ocasio, better known by his stage name, Bad Bunny. In both sketches, there is some tension between Marcello's mom and aunt and the girlfriend, manifested by their critiques of the girlfriend's clothes, job, and whatever she brought to dinner. In the end, however, they manage to find a connection with the girlfriend when they find a shared interest--in the first sketch, the girlfriend wants to say grace; and in the second sketch, the girlfriend is concerned that Marcello is not eating enough. 
+In his short tenure as a cast member, Marcello has brought noticeable changes to 
+SNL; there has been an uptick in sketches that feature Spanish and code-switching.
+This is exceptional since the show is watched by a mainly white audience (https://www.samba.tv/resources/viewership-of-saturday-night-live-season-46?utm_source=chatgpt.com)
+For example, in the second episode of the 49th season, there was a sketch 
+completely in Spanish titled *La Era del Descubrimiento* 'the age of dicovery'. 
+The sketch portrays Spain in the 16th century and two recently arrived sailors 
+from the new world. In another sketch titled *Spanish Class*, Marcello Hernandez 
+and actor Ana de Armas (the host of the week) play two siblings from Cuba who 
+are taking a Spanish class. The humor lies in the two siblings speaking Spanish 
+while the Spanish teacher (actor Mikey Day) has trouble following. In this 
+paper, I focus on two sketches "Protective Mom" and 
+"Protective Mom 2", both written by Marcello. The premise for these two sketches 
+is simple. Marcello brings his white girlfriend to meet his highly protective 
+Latina mom, in this case played by the Chilean-American actor Pedro Pascal. At
+first there is animosity between Marcello's mom and girlfriend, mainly due to 
+her way of dressing, her job, and just being white. The 
+sequel shares the same concept as the first part, though here the character of
+Marcello's overprotective aunt is introduced, played by the Puerto Rican 
+reggaetón artist, Benito Antonio Martínez Ocasio, better known by his stage 
+name, Bad Bunny. 
 
+In both sketches, code-switching is used extensively. In this paper, I argue 
+that code-switching is used as a stance-taking device, whereby the Latinx characters 
+are taking stances and constructing personnae that are different from the white 
+girlfriend, who does not code-switch. 
+
+
+## SNL
+
+First, let m
